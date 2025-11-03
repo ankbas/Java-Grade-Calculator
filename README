@@ -1,0 +1,15 @@
+# 🎓 Java Grade Calculator
+A Java program that calculates average grades based on student scores.
+
+### 🧩 Features
+- Calculates grade average  
+- Displays letter grades (A–F) based on thresholds  
+- Uses loops, arrays, and conditionals  
+
+### 🛠️ Tech Stack
+Java | IntelliJ IDEA | GitHub  
+
+### 🚀 What I Learned
+- Practiced working with arrays and loops  
+- Built a simple but efficient console application  
+- Reinforced problem-solving and clean code habits
