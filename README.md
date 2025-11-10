@@ -5,6 +5,7 @@ A simple Java console program that calculates the average of student marks and d
 ---
 
 ### 📘 Code Example
+
 ```java
 public class GradeCalculator {
     public static void main(String[] args) {
